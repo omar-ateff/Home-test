@@ -1,0 +1,17 @@
+Demo accounts
+=============
+
+Any password works in this prototype.
+Suggested password: demo1234
+
+Student
+Email: ahmed.hassan@student.guc.edu.eg
+
+Course Instructor
+Email: mervat.abuelkheir@guc.edu.eg
+
+Employer
+Email: talent@instabug.com
+
+Administrator
+Email: admin@guc.edu.eg
